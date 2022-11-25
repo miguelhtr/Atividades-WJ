@@ -63,7 +63,7 @@ ul{
 }
 
 .produtos li:active {
-	border-color: #088C19;	
+	border-color: #088C19;
 }
 
 .produtos li:hover h2 {
@@ -98,7 +98,7 @@ ul{
 }
 
 .main {
-	
+
 }
 
 .form {
@@ -245,7 +245,7 @@ td, th {
 	opacity: 1;
 	transition: 400ms;
 	box-shadow: 5px 10px 10px #000000;
-	
+
 }
 .imagem-beneficios:hover {
 	opacity:0.3;
@@ -272,4 +272,9 @@ td, th {
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
     }
+}
+
+
+.cabelo{
+	width:70%
 }
